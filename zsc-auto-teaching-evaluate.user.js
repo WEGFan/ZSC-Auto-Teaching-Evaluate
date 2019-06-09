@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        ZSC Auto Teaching Evaluate
 // @namespace   wegfan
+// @author      wegfan
 // @include     http://jwgln.zsc.edu.cn/jsxsd/xspj/xspj_edit.do?xnxq01id=*
 // @version     0.1
 // @grant       none
